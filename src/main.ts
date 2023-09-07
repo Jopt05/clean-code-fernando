@@ -1,5 +1,5 @@
 import './style.css'
-import './clean-code/07-resolucion-tarea.ts';
+import './solid/03-liskov-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
